@@ -5,6 +5,7 @@
   "author": "Sophie Drake <s.drake@kainos.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
@@ -14,6 +15,7 @@
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
+    "hubot-reload-scripts": "^0.1.2",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
